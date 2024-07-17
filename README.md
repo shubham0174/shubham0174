@@ -1,8 +1,12 @@
-### Hi there 👋, Shubham
-#### Web Development & Security
+
 ![Web Development & Security](https://media.licdn.com/dms/image/D5616AQGWIIm9TGsQGA/profile-displaybackgroundimage-shrink_350_1400/0/1721200747050?e=1726704000&v=beta&t=-STSPMiXHMwk9VGTfqvQ13OYbq33jlvNcmy2FnHptH0)
 
+### Hi there 👋, I'm Shubham Sharma
+#### Web Development & Security
+
 I'm Shubham Sharma, specializing in Web Development (MERN stack) and Web Testing. I thoroughly enjoy delving into languages and frameworks such as React and React Native. Participating in Hackathons is a favorite pastime, where I collaborate on innovative ideas, problem-solving, and exploring new technologies with my team. My true passion lies in Web Security, an area I find endlessly fascinating and strive to deepen my expertise in. For more details, visit my LinkedIn profile at https://www.linkedin.com/in/shubham-sharma-9b308a307.
+
+## Skills and Experience
 
 Skills: MERN STACK / JS /  HTML / CSS / GIT / LINUX / PYTHON / NETWORKING
 
