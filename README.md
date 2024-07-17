@@ -9,9 +9,11 @@ I'm Shubham Sharma, specializing in Web Development (MERN stack) and Web Testing
 <br>
 
 ## Skills and Experience
-* MERN STACK
-* HTML / CSS / JS / PYTHON
-* GIT / LINUX / NETWORKING
+* **MERN STACK**
+* **HTML / CSS / JS / PYTHON**
+* **GIT / LINUX / NETWORKING**
+
+<br>
 
 - 🌱 I’m currently learning Full stack web development 
 - ⚡ Fun fact: I always push past my limits.
