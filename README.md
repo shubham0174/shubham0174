@@ -15,8 +15,7 @@ I'm Shubham Sharma, specializing in Web Development (MERN stack) and Web Testing
 - ⚡ Fun fact: I always push past my limits. 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0174)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubham0174)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0174)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shubham0174)  
 
