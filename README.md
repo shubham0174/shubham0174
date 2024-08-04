@@ -4,18 +4,18 @@
 ### Hi there 👋, I'm Shubham Sharma
 #### Web Development & Security
 
-I'm Shubham Sharma, specializing in Web Development (MERN stack) and Web Testing. I enjoy delving into languages and frameworks such as React and React Native. Participating in Hackathons is a favorite pastime. My true passion lies in Web Security, an area I find endlessly fascinating and strive to deepen my expertise in. For more details, visit my LinkedIn profile at https://www.linkedin.com/in/shubham-sharma-9b308a307.
+I'm Shubham Sharma, I enjoy delving into languages and frameworks such as Django, React and React Native. Participating in Hackathons is a favorite pastime. My true passion lies in Web Security, an area I find endlessly fascinating and strive to deepen my expertise in. For more details, visit my LinkedIn profile at https://www.linkedin.com/in/shubham-sharma-9b308a307.
 
 <br>
 
 ## Skills and Experience
-* **MERN STACK**
+* **Django**
 * **HTML / CSS / JS / PYTHON**
 * **GIT / LINUX / NETWORKING**
 
 <br>
 
-- 🌱 I’m currently learning Full stack web development 
+- 🌱 I’m currently learning Full stack web development and participating in CTFs.
 - ⚡ Fun fact: I always push past my limits.
 
 <br>
