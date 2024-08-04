@@ -1,5 +1,5 @@
 
-![Web Development & Security](https://media.licdn.com/dms/image/D5616AQGWIIm9TGsQGA/profile-displaybackgroundimage-shrink_350_1400/0/1721200747050?e=1726704000&v=beta&t=-STSPMiXHMwk9VGTfqvQ13OYbq33jlvNcmy2FnHptH0)
+![Purple and Green Vibrant Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/8e3a8ce8-0485-485b-928e-51549e9a28f4)
 
 ### Hi there 👋, I'm Shubham Sharma
 #### Web Development & Security
